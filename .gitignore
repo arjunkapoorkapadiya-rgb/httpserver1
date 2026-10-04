@@ -1,0 +1,4 @@
+﻿httpserver.exe
+*.exe
+*.test
+*.out
